@@ -1,2 +1,24 @@
 # odgch-glamhack-datasets
-Datasets on opendata.swiss for the GLAMhack
+Datasets on opendata.swiss for the GLAMhack:
+* https://opendata.swiss/dataset/bibliography-on-swiss-history-1975
+* https://opendata.swiss/dataset/bildersammlung-eduard-spelterini
+* https://opendata.swiss/dataset/digitalisierte-sammlungen
+* https://opendata.swiss/dataset/swiss-book-2001
+* https://opendata.swiss/dataset/the-gugelmann-collection-schweizer-kleinmeister
+* https://opendata.swiss/dataset/bibliografische-daten-rdf
+* https://opendata.swiss/dataset/bibliographische-daten-des-bibliotheksverbunds-alexandria
+* https://opendata.swiss/dataset/bildersammlung-max-van-berchem
+* https://opendata.swiss/dataset/ebooks-on-demand-eod
+* https://opendata.swiss/dataset/foto-ansichten-der-stadt-zurich-aus-den-jahren-1870-bis-1900
+* https://opendata.swiss/dataset/grundlagendaten-zur-publikation-zurich-1799
+* https://opendata.swiss/dataset/historical-photograph-collection-active-service-in-the-first-world-war
+* https://opendata.swiss/dataset/wfs-denkmalschutzobjekte
+* https://opendata.swiss/dataset?keywords_de=historischer-verkehrsweg
+* https://opendata.swiss/dataset/federal-consultations-1960-1991
+* https://opendata.swiss/dataset/fonds-overview-federal-state-since-1848
+* https://opendata.swiss/dataset/historical-photograph-collection-active-service-in-the-first-world-war
+* https://opendata.swiss/dataset/stapfer-enquete-schule-in-der-schweiz-1799
+* https://opendata.swiss/dataset/stat-tab-the-fsos-interactive-database
+* https://opendata.swiss/dataset/state-financial-statements-federal-budget-receipts-and-expenditure-of-the-confederation-for-the-prev
+* https://opendata.swiss/dataset/swiss-archives-archive-database-of-the-swiss-federal-archives
+* https://opendata.swiss/dataset?q=denkmalschutzobjekte
