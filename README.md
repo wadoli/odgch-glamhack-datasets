@@ -26,3 +26,6 @@ Datasets on opendata.swiss for the GLAMhack:
 * https://opendata.swiss/en/dataset/historische-fotografien-des-forstbetriebes-sihlwald1878-1962
 * https://opendata.swiss/en/dataset/pfarrbucher-der-stadt-zurich-tauf-und-ehebuch-grossmunster-1708-1762
 * https://opendata.swiss/en/dataset/repertoire-des-schauspielhaus-zurich-1938-1968
+* https://opendata.swiss/en/dataset/bildarchiv-des-lebensmittelverein-zurich-lvz
+* https://opendata.swiss/en/dataset/fotosammlung-wandervogel-schweizerischer-bund-fur-alkoholfreie-jugendwanderungen
+* https://opendata.swiss/en/dataset/bildarchiv-des-schweizerischen-arbeiterhilfswerks-sah-oeuvre-suisse-dentraide-ouvriere-oseo
